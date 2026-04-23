@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // STUDENT MANAGMENT SYSTEM
 import java.util.Scanner;
 
@@ -48,4 +49,10 @@ class Main {
 
     }
     
+=======
+class Main {
+    public static void main(String[] args){
+        System.out.println("iam learning java");
+    }
+>>>>>>> 05d1e6d526f8fd7e1d6c45e9a8bfe318c4e9df9f
 }
